@@ -1,0 +1,86 @@
+body{
+  background-color: #542E71;
+}
+
+
+h1{
+  color: #FDCA40;
+  font-size: 700%;
+  text-decoration: underline;
+}
+
+.Second{
+  background-color: #A799B7;
+}
+p{
+  color:#172774;
+  font-size: 100%
+}
+
+.bigtitle{
+  color: #172774;
+  font-size: 300%;
+}
+
+h2{
+  color:#D62AD0;
+  font-size: 200%;
+}
+
+hr{
+  background-color: #FDCA40;
+}
+
+.Start{
+  background-image: url('https://wallpaperaccess.com/full/3717282.png');
+  background-size:cover;
+}
+
+.Jade{
+  border: 2px solid;
+}
+
+.Ruby{
+  border: 2px solid;
+}
+
+.Mexico{
+  height:12px;
+  width:25px;
+}
+
+.Duelist{
+  height: 12px;
+  width:12px;
+}
+
+.Reyna-Face{
+  height:100px;
+  width: 100px;
+}
+
+.Third{
+  background-color:#542E71;
+}
+
+.third-table{
+    border:10 solid #A799B7;
+}
+
+.descriptive{
+  font-size: 200%;
+  color:#FCF8E8;
+}
+
+.tit{
+  font-size: 500%
+}
+
+.line{
+  background-color:#A91079;
+}
+
+.Devour{
+   height:300px;
+   width:300px;
+}

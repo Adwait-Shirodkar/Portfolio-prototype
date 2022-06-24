@@ -1,0 +1,23 @@
+body{
+  background-color:#FCF8E8;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: #94B49F;
+  background-color: #FCF8E8;
+  height:0;
+  border-width:5px;
+}
+
+h1{
+  color: #DF7861;
+}
+
+h3{
+  color: #ECB390;
+}
+
+h2{
+  color: #DF7861;
+}
